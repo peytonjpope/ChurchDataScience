@@ -26,28 +26,106 @@
    - Produced both aggregate and denomination-specific visualizations
 
 ## Results
+### Scatter Plot Visualizations  
 
-### Scatter Plot Visualizations
-- ![All Churches Overview](graphs/dotmapAll.png) - Overview of all churches across the continental US
-- ![Baptist Churches](graphs/dotmapBaptist.png) - Baptist denomination distribution
-- ![Methodist Churches](graphs/dotmapMethodist.png) - Methodist denomination distribution
-- ![Presbyterian Churches](graphs/dotmapPresbyterian.png) - Presbyterian denomination distribution
-- ![Episcopal Churches](graphs/dotmapEpiscopal.png) - Episcopal denomination distribution
-- ![Catholic Churches](graphs/dotmapCatholic.png) - Catholic denomination distribution
-- ![LDS Churches](graphs/dotmapLDS.png) - Latter Day Saints denomination distribution
-- ![Lutheran Churches](graphs/dotmapLutheran.png) - Lutheran denomination distribution
-- ![Mennonite Churches](graphs/dotmapMennonite.png) - Mennonite denomination distribution
-- ![Pentecostal Churches](graphs/dotmapPentecostal.png) - Pentecostal denomination distribution
+![All Churches](graphs/dotmapAll.png)  
+*All churches*  
+
+---
+
+![Baptist Churches](graphs/dotmapBaptist.png)  
+*Baptist churches*  
+
+---
+
+![Methodist Churches](graphs/dotmapMethodist.png)  
+*Methodist churches*  
+
+---
+
+![Presbyterian Churches](graphs/dotmapPresbyterian.png)  
+*Presbyterian churches*  
+
+---
+
+![Episcopal Churches](graphs/dotmapEpiscopal.png)  
+*Episcopal churches*  
+
+---
+
+![Catholic Churches](graphs/dotmapCatholic.png)  
+*Catholic churches*  
+
+---
+
+![LDS Churches](graphs/dotmapLDS.png)  
+*Latter-Day Saints churches*  
+
+---
+
+![Lutheran Churches](graphs/dotmapLutheran.png)  
+*Lutheran churches*  
+
+---
+
+![Mennonite Churches](graphs/dotmapMennonite.png)  
+*Mennonite churches*  
+
+---
+
+![Pentecostal Churches](graphs/dotmapPentecostal.png)  
+*Pentecostal churches*  
+
+---
 
 ### Density Map Visualizations  
-- ![All Churches Density](graphs/conmapAll.png) - Density heatmap showing church concentration patterns
-- ![Baptist Density](graphs/conmapBaptist.png) - Baptist denomination density map
-- ![Methodist Density](graphs/conmapMethodist.png) - Methodist denomination density map
-- ![Presbyterian Density](graphs/conmapPresbyterian.png) - Presbyterian denomination density map
-- ![Episcopal Density](graphs/conmapEpiscopal.png) - Episcopal denomination density map
-- ![Catholic Density](graphs/conmapCatholic.png) - Catholic denomination density map
-- ![LDS Density](graphs/conmapLDS.png) - Latter Day Saints denomination density map
-- ![Lutheran Density](graphs/conmapLutheran.png) - Lutheran denomination density map
-- ![Mennonite Density](graphs/conmapMennonite.png) - Mennonite denomination density map
-- ![Pentecostal Density](graphs/conmapPentecostal.png) - Pentecostal denomination density map
 
+![All Churches Density](graphs/conmapAll.png)  
+*All churches density*  
+
+---
+
+![Baptist Density](graphs/conmapBaptist.png)  
+*Baptist churches density*  
+
+---
+
+![Methodist Density](graphs/conmapMethodist.png)  
+*Methodist churches density*  
+
+---
+
+![Presbyterian Density](graphs/conmapPresbyterian.png)  
+*Presbyterian churches density*  
+
+---
+
+![Episcopal Density](graphs/conmapEpiscopal.png)  
+*Episcopal churches density*  
+
+---
+
+![Catholic Density](graphs/conmapCatholic.png)  
+*Catholic churches density*  
+
+---
+
+![LDS Density](graphs/conmapLDS.png)  
+*Latter-Day Saints churches density*  
+
+---
+
+![Lutheran Density](graphs/conmapLutheran.png)  
+*Lutheran churches density*  
+
+---
+
+![Mennonite Density](graphs/conmapMennonite.png)  
+*Mennonite churches density*  
+
+---
+
+![Pentecostal Density](graphs/conmapPentecostal.png)  
+*Pentecostal churches density*  
+
+---
