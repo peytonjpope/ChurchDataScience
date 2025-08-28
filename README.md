@@ -17,7 +17,7 @@
    - Combined data from all states into a single DataFrame
    - Cleaned and converted coordinate data to float format
    - Categorized churches into 11 denominations
-   - Exported final dataset to ([churches.csv](https://github.com/peytonjpope/ChurchDataScience/blob/main/churches.csv))**
+   - Exported final dataset to ([churches.csv](https://github.com/peytonjpope/ChurchDataScience/blob/main/churches.csv))
 
 3. **Data Visualization ([graphs.py](https://github.com/peytonjpope/ChurchDataScience/blob/main/graphs.py))**
    - Created scatter plots showing geographic distribution of all churches and by denomination
