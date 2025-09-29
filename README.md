@@ -130,4 +130,4 @@
 
 ---
 
-_Visit [peytonjpope.com](https://peytonjpope.com/churchds) for more_
+_Visit [peytonjpope.com](https://peytonjpope.com/projects/churchds/) for more_
